@@ -4,6 +4,10 @@ A simple **Simon Memory Game** built with **HTML, CSS, and JavaScript**. The pla
 
 > 📚 **Learning project:** I created this mini project to practise JavaScript fundamentals, especially **DOM manipulation**, event handling, functions, arrays, and basic game logic. It is a learning project, not a production application.
 
+## 🌐 Live Demo
+
+- **Live Demo:** [Play Simon Game](https://atharvharde01.github.io/Simon-Game-JS/)
+
 ## ✨ Features
 
 - 🎨 Four coloured buttons: Pink, Red, Blue, and Yellow.
@@ -40,7 +44,7 @@ This project was built to practise the following concepts:
 
 ## 🎯 How to Play
 
-1. Open the game in your browser.
+1. Open the [live game](https://atharvharde01.github.io/Simon-Game-JS/) in your browser, or run it locally using the steps below.
 2. Press **any keyboard key** or click **Start Game**.
 3. Watch the coloured button that flashes.
 4. Click the same coloured button.
@@ -52,7 +56,7 @@ This project was built to practise the following concepts:
 ## 📁 Project Structure
 
 ```text
-Simon-Game/
+Simon-Game-JS/
 ├── index.html   # Game page structure
 ├── style.css    # Styling and responsive layout
 ├── simon.js     # Game logic and DOM interactions
@@ -63,18 +67,19 @@ Simon-Game/
 
 No installation or build setup is needed.
 
-**Option 1 – Open directly**
+**Option 1 – Download the repository**
 
-1. Download or clone this repository.
-2. Open the project folder.
-3. Double-click `index.html`, or open it in your preferred web browser.
-4. Start playing!
+1. Open the [GitHub repository](https://github.com/Atharvharde01/Simon-Game-JS).
+2. Click **Code** and select **Download ZIP**.
+3. Extract the ZIP file and open the `Simon-Game-JS` folder.
+4. Double-click `index.html`, or open it in your preferred web browser.
+5. Start playing!
 
 **Option 2 – Clone using Git**
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/Atharvharde01/Simon-Game-JS.git
+cd Simon-Game-JS
 ```
 
 Then open `index.html` in your browser.
